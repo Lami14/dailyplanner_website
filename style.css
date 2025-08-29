@@ -1,0 +1,17 @@
+.daily-planner {
+  font-family: system-ui, sans-serif;
+}
+
+.planner-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  background: linear-gradient(to right, #fbcfe8, #fecdd3, #f3e8ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.planner-date {
+  font-size: 1.1rem;
+  color: #a21caf;
+  margin-top: 0.5rem;
+}
